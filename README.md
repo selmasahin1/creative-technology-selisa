@@ -11,13 +11,13 @@ Durch die Ausgabe im Igloo, das aus mehreren Projektoren besteht, entsteht eine 
 
 Hardware:
 
-MacBook Pro (TouchDesigner 2023.20480)
-Microphone (USB 3.0)
-Igloo mit 5 Projektoren
+- Microphone (USB 3.0)
+- Desktop (TouchDesigner 2023.20480)
+- Igloo mit 5 Projektoren
 
 Software:
 
-TouchDesigner
+- TouchDesigner
 
 
 ![Komponetenplan drawio](https://github.com/user-attachments/assets/30c13584-9108-4d27-b07b-8f92d0eb318c)
