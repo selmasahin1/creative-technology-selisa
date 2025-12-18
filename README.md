@@ -45,7 +45,7 @@ Tiefe Frequenzen → Violett
 
 Mittlere Frequenzen → Pink
 
-Hohe Frequenzen → Rosa
+Hohe Frequenzen → Hell Pink
 
 Diese drei Werte werden auf die Farbparameter der Partikel gemappt, sodass sich die Farbe der Partikel dynamisch an den dominanten Frequenzbereich des Sounds anpasst.
 
@@ -65,7 +65,7 @@ Damit das Projekt reproduzierbar ist, werden folgende Schritte benötigt:
 
 - Computer: Betriebssystem egal
 
-- Mikrofon: Beliebiges Mikrofon (USB empfohlen)
+- Mikrofon: Beliebiges Mikrofon
 
 - Ausgabesystem: Syphon/Spout-fähiger Rechner oder Igloo-System
 
